@@ -1,1 +1,2 @@
 # Airlines-analysis-and-visualization
+This project focuses on analyzing and visualizing airline passenger satisfaction and operational trends using Python and data visualization tools. The primary goal is to extract actionable insights from airline data to understand customer preferences, identify seasonal patterns, and help airlines make informed decisions about service improvements and resource allocation.
